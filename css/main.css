@@ -20,9 +20,9 @@ nav ul li, footer ul li {
     text-decoration: underline;
     color: #000000;
 }
-a[href*='about'] {
-    text-decoration: underline solid blue;
-    color: #ff6600;
+a[href *= 'about'] {
+    text-decoration: underline solid #000000;
+    color: #F39810;
 }
 h1 {
     font-size: 3em;
