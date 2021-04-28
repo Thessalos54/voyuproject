@@ -16,15 +16,14 @@ nav ul li, footer ul li {
 }
 [href] {
     text-decoration: none;
-    color: #999999;
 }
 [href]:hover {
     text-decoration: underline;
     color: #F39810;
 }
 [href *= 'about'] {
-    text-decoration: underline solid #000000;
-    color: #000000;
+    text-decoration: underline solid #ff9900;
+    color: #ff9900;
 }
 h1 {
     font-size: 3em;
