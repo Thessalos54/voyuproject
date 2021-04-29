@@ -16,7 +16,8 @@ nav ul li, footer ul li {
 }
 
 [href] {
-    text-decoration: none;
+    text-decoration: underline dotted #eaf0c1;
+    color: #eaf0c1;
 }
 [href]:hover {
     text-decoration: #DF3644;
