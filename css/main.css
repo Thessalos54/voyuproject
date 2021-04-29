@@ -15,20 +15,16 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-li {
-    font-family: 'Georgia';
-    color: #9966ff;
-}
 [href] {
     text-decoration: none;
 }
 [href]:hover {
-    text-decoration: underline;
-    color: #F39810;
+    text-decoration: #DF3644;
+    color: #DF3644;
 }
-[href *= 'about'] {
-    text-decoration: underline solid #000;
-    color: #ff9900;
+[href *= 'about']:hover {
+    text-decoration: underline solid #4452A3;
+    color: #4452A3;
 }
 h1 {
     font-size: 3em;
