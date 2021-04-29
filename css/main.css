@@ -52,3 +52,7 @@ ul.posts li {
 
 .header-knots {
     offset-position: right 100px;
+}
+.header-flag {
+    offset-position: right 780px;
+}
