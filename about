@@ -8,6 +8,13 @@
 	</head>
   
   <body>
+  	<nav>
+    		<ul>
+        		<li><a href="/voyuproject/">Home</a></li>
+	        	<li><a href="/voyuproject/about/">About</a></li>
+        		<li><a href="/blog/">Blog</a></li>
+    		</ul>
+	</nav>
     <div class='container'>
     <div class='description'>
       <h1>About us</h1>
