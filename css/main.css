@@ -27,7 +27,7 @@ li {
     color: #F39810;
 }
 [href *= 'about'] {
-    text-decoration: underline solid #ff9900;
+    text-decoration: underline solid #000;
     color: #ff9900;
 }
 h1 {
