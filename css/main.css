@@ -14,6 +14,11 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
+li {
+    font-family: 'Georgia';
+    color: #9966ff;
+}
 [href] {
     text-decoration: none;
 }
@@ -47,7 +52,3 @@ ul.posts li {
     list-style: none;
 }
 
-li {
-    font-family: 'Georgia';
-    color: #9966ff;
-}
