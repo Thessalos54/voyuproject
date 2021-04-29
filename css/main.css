@@ -60,6 +60,6 @@ ul.posts li {
 }
 
 .header-logo {
-    width= 6.8%; 
-    height= 8%;
+    width= 6.8%; /* 60px */
+    height= 80px;
 }
