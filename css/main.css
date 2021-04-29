@@ -52,7 +52,14 @@ ul.posts li {
 
 .header-knots {
     offset-position: right 100px;
+    width="670" 
+    height="70"
 }
 .header-flag {
     offset-position: right 720px;
+}
+
+.header-logo {
+    width= 6.8%; 
+    height= 8%;
 }
