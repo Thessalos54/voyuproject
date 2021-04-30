@@ -66,6 +66,7 @@ ul.posts li {
   text-align: center;
   width: 200px;  /* Container's dimensions */
   height: 150px;
+  background-color: #000;
 }
 img {
   display: inline-block;
