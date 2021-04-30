@@ -69,6 +69,6 @@ ul.posts li {
     font-weight: bold;
 }
 header.img {
-    height=100%;
-    width=100%;
+    height:auto;
+    max-width:100%;
 }
