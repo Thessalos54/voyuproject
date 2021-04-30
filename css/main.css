@@ -4,6 +4,50 @@ body {
     background: #202148;
     color: #F6F8E5;
 }
+h1 {
+    font-size: 4.5vw;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: center;
+}
+
+h2 {
+    font-size: 4vw;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: center;
+}
+
+h3 {
+    font-size: 3.5vw;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: center;    
+}
+
+h4 {
+    font-size: 3vw;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: center;    
+}
+
+h5 {
+    font-size: 2.5vw;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: center;    
+}
+
+h6 {
+    font-size: 2vw;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: center;    
+}
+
+p {
+    font-size: 1.5vw;
+    line-height: 1.4vw;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -27,19 +71,7 @@ nav ul li, footer ul li {
     text-decoration: underline solid #4452A3;
     color: #4452A3;
 }
-h1 {
-    font-size: 4.5vw;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    text-align: center;
-}
-p {
-    font-size: 1.5vw;
-    line-height: 1.4vw;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
+
 
 ul.posts { 
     margin: 20px auto 40px; 
@@ -49,8 +81,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
-
 
 .title {
     font-size: 5vw;
@@ -77,10 +107,4 @@ img {
   display: inline-block;
   vertical-align: middle;
   height: auto;
-}
-
-h3 {
-    font-size: 2.5vw;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    text-align: center;    
 }
