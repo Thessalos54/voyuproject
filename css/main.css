@@ -91,6 +91,15 @@ ul.posts li {
     margin: 5px auto 10px;
     font-weight: bold;
 }
+
+.subtitle {
+    ont-family: 'Times New Roman', 'Arial', 'Sans-Serif';
+    text-align: center;
+    text-decoration: underline solid #F6F8E5;
+    color: #F6F8E5;
+    margin: 5px auto 10px;
+    font-weight: bold;
+}
 .header {
   font-size: 0;
   text-align: center;
