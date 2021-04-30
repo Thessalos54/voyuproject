@@ -56,3 +56,12 @@ ul.posts li {
     height=10%;
 }
 
+.title {
+    font-size: 3.5em;
+    font-family: 'Times New Roman', 'Arial', 'Sans-Serif';
+    text-align: center;
+    text-decoration: underline solid #F6F8E5;
+    color: #F6F8E5;
+    margin: 5px auto 10px;
+    font-weight: bold;
+}
