@@ -64,9 +64,8 @@ ul.posts li {
 .header {
   font-size: 0;
   text-align: center;
-  width: 200px;  /* Container's dimensions */
-  height: 150px;
-  background-color: #000;
+  width: 100%;  /* Container's dimensions */
+  height: auto;
 }
 img {
   display: inline-block;
@@ -77,5 +76,5 @@ img {
 .trick {
   display: inline-block;
   vertical-align: middle;
-  height: 150px;
+  height: auto;
 }
