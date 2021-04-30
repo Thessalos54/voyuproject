@@ -53,6 +53,8 @@ ul.posts li {
 .header {
     width: 70%; 
     height=3%;
+    background: #eaf0c1;
+    border: 5px solid #FFF;
 }
 
 .title {
