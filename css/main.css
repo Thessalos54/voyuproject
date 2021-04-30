@@ -28,13 +28,13 @@ nav ul li, footer ul li {
     color: #4452A3;
 }
 h1 {
-    font-size: 3em;
+    font-size: 4.5vw;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-align: center;
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.5vw;
+    line-height: 1.4vw;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -66,7 +66,6 @@ ul.posts li {
   text-align: center;
   width: 100%;  /* Container's dimensions */
   height: auto;
-  background-color: #F6F8E5;
 }
 img {
   display: inline-block;
@@ -78,5 +77,4 @@ img {
   display: inline-block;
   vertical-align: middle;
   height: auto;
-  background-color: #F6F8E5;
 }
