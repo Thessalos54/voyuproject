@@ -58,8 +58,8 @@ ul.posts li {
     overflow: hidden;
 }
 .header img {
-    margin: 5px 5px;
-    float: right;
+    max-width: 99%;
+    max-height: 99%;
 }
 
 .title {
