@@ -93,7 +93,7 @@ ul.posts li {
 }
 
 .subtitle {
-    ont-family: 'Times New Roman', 'Arial', 'Sans-Serif';
+    font-family: 'Times New Roman', 'Arial', 'Sans-Serif';
     text-align: center;
     text-decoration: underline solid #F6F8E5;
     color: #F6F8E5;
@@ -116,4 +116,12 @@ img {
   display: inline-block;
   vertical-align: middle;
   height: auto;
+}
+
+.intro {
+    font-family: 'Times New Roman', 'Arial', 'Sans-Serif';
+    text-align: left;
+    color: #820725;
+    margin: 5px auto 10px;
+    font-weight: bold;
 }
