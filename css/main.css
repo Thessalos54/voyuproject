@@ -66,6 +66,7 @@ ul.posts li {
   text-align: center;
   width: 100%;  /* Container's dimensions */
   height: auto;
+  background-color: #F6F8E5;
 }
 img {
   display: inline-block;
@@ -77,4 +78,5 @@ img {
   display: inline-block;
   vertical-align: middle;
   height: auto;
+  background-color: #F6F8E5;
 }
