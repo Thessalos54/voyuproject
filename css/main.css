@@ -55,6 +55,7 @@ ul.posts li {
     height=80px;
     background: #66ffff;
     border: 5px solid #000;
+    overflow: hidden;
 }
 .header img {
     margin: 5px 5px;
