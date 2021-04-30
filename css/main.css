@@ -71,4 +71,5 @@ ul.posts li {
 header.img {
     height:auto;
     max-width:100%;
+    object-fit:contain;
 }
