@@ -125,3 +125,11 @@ img {
     margin: 5px auto 10px;
     font-weight: bold;
 }
+
+.navigation {
+    font-family: 'Times New Roman', 'Arial', 'Sans-Serif';
+    text-align: left;
+    color: #0000FF;
+    margin: 5px auto 10px;
+    font-weight: bold;
+}
