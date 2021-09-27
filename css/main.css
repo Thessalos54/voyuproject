@@ -128,9 +128,9 @@ img {
 
 .navigation {
     font-family: 'Times New Roman', 'Arial', 'Sans-Serif';
-    text-align: left;
-    color: #0000FF;
-    background: #0000FF;
+    text-align: center;
+    background: #2b0a80;
     margin: 5px auto 10px;
     font-weight: bold;
+    max-width:800px;
 }
