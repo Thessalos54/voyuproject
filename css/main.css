@@ -138,8 +138,12 @@ img {
 
 .navimgl {
     text-align: left;
+    max-height:200px;
+    max-width:200px;
 }
 
 .navimgr {
     text-align:right;
+    max-height:200px;
+    max-width:200px;
 }
