@@ -135,3 +135,11 @@ img {
     font-weight: bold;
     height:250px;
 }
+
+.navimgl {
+    text-align: left;
+}
+
+.navimgr {
+    text-align:right;
+}
