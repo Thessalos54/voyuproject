@@ -1,3 +1,5 @@
+/* CSS Document */
+
 body {
     margin: 60px auto;
     width: 80%;
@@ -43,7 +45,6 @@ h6 {
 p {
     font-size: 1.5vw;
     line-height: 1.4vw;
-    background: #2a2b61;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -61,8 +62,7 @@ nav ul li, footer ul li {
 }
 
 [href] {
-    text-decoration: underline dotted #687839;
-    color: #687839;
+    color: #F6F8E5;
 }
 [href]:hover {
     text-decoration: #DF3644;
@@ -84,19 +84,18 @@ ul.posts li {
 }
 
 .title {
-    font-size: 5vw;
+    font-size: 3vw;
     font-family: 'Times New Roman', 'Arial', 'Sans-Serif';
     text-align: center;
-    text-decoration: underline solid #F6F8E5;
     color: #F6F8E5;
     margin: 5px auto 10px;
     font-weight: bold;
 }
 
 .subtitle {
+    font-size: 2.5vw;
     font-family: 'Times New Roman', 'Arial', 'Sans-Serif';
     text-align: center;
-    text-decoration: underline solid #F6F8E5;
     color: #F6F8E5;
     margin: 5px auto 10px;
     font-weight: bold;
@@ -107,12 +106,7 @@ ul.posts li {
   width: 100%;  /* Container's dimensions */
   height: auto;
 }
-img {
-  display: inline-block;
-  vertical-align: middle;
-  max-height: 100%;
-  max-width: 100%;
-}
+
 .trick {
   display: inline-block;
   vertical-align: middle;
@@ -129,23 +123,64 @@ img {
 
 .navigation {
     font-family: 'Times New Roman', 'Arial', 'Sans-Serif';
-    text-align: center;
-    background: #2b0a80;
-    margin: 5px auto 10px;
+    float: center;	
+	background: #262755;
     font-weight: bold;
-    height:250px;
+    height:140px;
+    color: #F6F8E5;
+	display:flex;
 }
 
+.navli{
+	flex:100%;
+	float:center;
+	font-size:20px;
+}
 .navimgl {
-    text-align: left;
-    max-height:50%;
-    max-width:50%;
-    padding:-50px;
+    float: left;
+    max-height:100%;
+    max-width:100%;
+	flex:2%;
 }
 
 .navimgr {
-    text-align:right;
-    max-height:50%;
-    max-width:50%;
-    padding:-50px;
+	float:right;
+    max-height:100%;
+    max-width:100%;
+	flex:2%;
+}
+.main {
+	background: #262755;
+
+}
+.pager {
+    max-height:100%;
+    max-width:100%;
+	float:right;	
+	margin-top:17.2vw;
+}
+.pagel {
+    max-height:100%;
+    max-width:100%;
+	float:left;
+	margin-top:17.2vw;
+}
+
+.row {
+  display: flex;
+}
+.column {
+  flex: 50%;
+}
+.columnnav {
+  flex: 60%;
+}
+.columnimg {
+  flex: 20%;
+}
+.band {
+	flex:1%;
+	background:#202148;
+	margin-left:10px;
+	margin-right:10px;
 }
