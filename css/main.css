@@ -63,7 +63,7 @@ nav ul li, footer ul li {
 
 [href] {
     color: #F6F8E5;
-	text
+	text-decoration:none;
 }
 [href]:hover {
     text-decoration: #DF3644;
@@ -110,12 +110,6 @@ ul.posts li {
   height: auto;
 }
 
-.trick {
-  display: inline-block;
-  vertical-align: middle;
-  height: auto;
-}
-
 .intro {
     font-family: 'Times New Roman', 'Arial', 'Sans-Serif';
     text-align: left;
@@ -157,7 +151,6 @@ ul.posts li {
 }
 .main {
 	background: #262755;
-
 }
 .pager {
     max-height:100%;
@@ -189,11 +182,36 @@ ul.posts li {
 .band {
 	flex:1%;
 	background:#202148;
-	margin-left:10px;
-	margin-right:10px;
+	margin-left:0.7vw;
+	margin-right:0.7vw;
 }
 
 .photos {
   max-width:100%;
 	max-height:100%;
+}
+
+.slogan{
+	font-family: 'Times New Roman', 'Arial', 'Sans-Serif';
+    float: center;	
+	background: #262755;
+    font-weight: bold;
+    height:3.8vw;
+    color: #F6F8E5;
+	display:flex;
+}
+.sloganli {
+	flex:90%;
+	font-size:2vw;
+	display:inline;
+	margin-left:9.7vw;
+	margin-right:1.6vw;
+	margin-top:-0.7vw;
+}
+.blurb {
+	margin-left:0.3vw;
+	margin-right:0.3vw;
+}
+.topband {
+	font-size:2vw;
 }
