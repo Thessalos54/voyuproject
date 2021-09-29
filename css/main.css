@@ -63,7 +63,7 @@ nav ul li, footer ul li {
 
 [href] {
     color: #F6F8E5;
-	text-decoration:none;
+	text
 }
 [href]:hover {
     text-decoration: #DF3644;
@@ -192,23 +192,8 @@ ul.posts li {
 	margin-left:10px;
 	margin-right:10px;
 }
-.colphoto1 {
-  flex: 38%;
-  padding: 5px;
-  max-height:100%
-}
-.colphoto2 {
-  flex: 32.6%;
-  padding: 5px;
-  max-height:100%
-}
-.colphoto3 {
-  flex: 30%;
-  padding: 5px;
-  max-height:100%
-}
 
-/* Clear floats after image containers */
 .photos {
-  display: flex;
+  max-width:100%;
+	max-height:100%;
 }
