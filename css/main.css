@@ -145,6 +145,7 @@ ul.posts li {
     max-height:100%;
     max-width:100%;
 	flex:2%;
+	margin-left:0.4vw;
 }
 
 .navimgr {
