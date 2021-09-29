@@ -98,7 +98,9 @@ ul.posts li {
     text-align: center;
     color: #F6F8E5;
     margin: 5px auto 10px;
-    font-weight: bold;
+    font-weight: bold;	
+	border-bottom: 3px solid #C12222;
+	padding-bottom: 5px;
 }
 .header {
   font-size: 0;
@@ -136,7 +138,7 @@ ul.posts li {
 	font-size:1.5vw;
 	display:inline;
 	margin-left:6.4vw;
-	margin-right:2vw;
+	margin-right:4.6vw;
 }
 .navimgl {
     float: left;
@@ -177,6 +179,7 @@ ul.posts li {
 .columnnav {
   flex: 80%;
   float:center;
+  margin-top:3vw;
 }
 .columnimg {
   flex: 20%;
