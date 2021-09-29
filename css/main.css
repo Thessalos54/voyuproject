@@ -132,9 +132,11 @@ ul.posts li {
 }
 
 .navli{
-	flex:100%;
-	float:center;
-	font-size:20px;
+	flex:90%;
+	font-size:1.5vw;
+	display:inline;
+	margin-left:6.4vw;
+	margin-right:2vw;
 }
 .navimgl {
     float: left;
@@ -157,13 +159,13 @@ ul.posts li {
     max-height:100%;
     max-width:100%;
 	float:right;	
-	margin-top:17.2vw;
+	margin-top:13.7vw;
 }
 .pagel {
     max-height:100%;
     max-width:100%;
 	float:left;
-	margin-top:17.2vw;
+	margin-top:13.7vw;
 }
 
 .row {
@@ -173,7 +175,8 @@ ul.posts li {
   flex: 50%;
 }
 .columnnav {
-  flex: 60%;
+  flex: 80%;
+  float:center;
 }
 .columnimg {
   flex: 20%;
